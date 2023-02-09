@@ -1,0 +1,1 @@
+document rights management commands
